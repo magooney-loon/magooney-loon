@@ -17,7 +17,8 @@ always looking for the next hackathon.
 **[svelte-gui](https://github.com/magooney-loon/svelte-gui)** — full app shell + component library for SvelteKit  
 
 **[arcadia](https://github.com/magooney-loon/arcadia)** — real-time blockchain indexer & analytics for Arc L1  
-**[the-rite](https://x.com/MyMoonEnt/status/2048482573328785653)** — UT2004/Quake arena shooter style web game  
+**[the-rite](https://x.com/MyMoonEnt/status/2048482573328785653)** — Ut2004/Quake arena shooter web game built on Spaceplate  
+**[just-survive](https://github.com/magooney-loon/JustSurvive)** — multiplayer co-op 3D survival arena built on Spaceplate  
 **[spaceplate](https://github.com/magooney-loon/spaceplate)** — Svelte 5 + Threlte + SpacetimeDB boilerplate for real-time 3D web apps  
 **[iguana](https://github.com/magooney-loon/iguana)** — audio visualizer/player built in Godot  
 **[milkshaker](https://github.com/magooney-loon/milkshaker_visualizer)** — real-time terminal audio visualizer in Go
