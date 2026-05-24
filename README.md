@@ -30,6 +30,6 @@ always looking for the next hackathon.
 
 this is what building feels like
 
-[![](https://img.youtube.com/vi/bEt3qSNbElM/mqdefault.jpg)](https://youtu.be/bEt3qSNbElM)&nbsp;&nbsp;[![](https://img.youtube.com/vi/jmHNnCDvKf4/mqdefault.jpg)](https://youtu.be/jmHNnCDvKf4)&nbsp;&nbsp;[![](https://img.youtube.com/vi/ulj5UJ5GHvE/mqdefault.jpg)](https://youtu.be/ulj5UJ5GHvE)
+[![](https://img.youtube.com/vi/bEt3qSNbElM/mqdefault.jpg)](https://youtu.be/bEt3qSNbElM)&nbsp;&nbsp;[![](https://img.youtube.com/vi/jmHNnCDvKf4/mqdefault.jpg)](https://youtu.be/jmHNnCDvKf4)&nbsp;&nbsp;[![](https://img.youtube.com/vi/ulj5UJ5GHvE/mqdefault.jpg)](https://youtu.be/ulj5UJ5GHvE)&nbsp;&nbsp;[![](https://img.youtube.com/vi/oFzlwBdC3Uw/mqdefault.jpg)](https://youtu.be/oFzlwBdC3Uw)
 
 </div>
