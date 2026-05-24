@@ -35,11 +35,3 @@ always looking for the next hackathon.
 [![](https://img.youtube.com/vi/bEt3qSNbElM/mqdefault.jpg)](https://youtu.be/bEt3qSNbElM)&nbsp;&nbsp;[![](https://img.youtube.com/vi/jmHNnCDvKf4/mqdefault.jpg)](https://youtu.be/jmHNnCDvKf4)&nbsp;&nbsp;[![](https://img.youtube.com/vi/ulj5UJ5GHvE/mqdefault.jpg)](https://youtu.be/ulj5UJ5GHvE)&nbsp;&nbsp;[![](https://img.youtube.com/vi/oFzlwBdC3Uw/mqdefault.jpg)](https://youtu.be/oFzlwBdC3Uw)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=magooney-loon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="410"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magooney-loon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="410">
-
-</div>
