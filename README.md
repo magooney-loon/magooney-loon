@@ -1,7 +1,7 @@
 <div align="center">
 
 i make tools, games, and things that probably shouldn't exist.  
-usually filling gaps nobody else bothered to fill.  
+no idea what i'm doing but haven't stopped yet.  
 always looking for the next hackathon.
 
 [contact@magooney.org](mailto:contact@magooney.org) &nbsp;·&nbsp; [u/SubjectHealthy2409](https://reddit.com/user/SubjectHealthy2409) &nbsp;·&nbsp; [@MyMoonEnt](https://x.com/MyMoonEnt)
@@ -22,11 +22,13 @@ always looking for the next hackathon.
 
 ---
 
-`go` `svelte` `solidity` `threejs` `threlte` `spacetimedb` `pocketbase` `sql`
+![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Solidity](https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Threlte](https://img.shields.io/badge/threlte-FF3E00?style=flat-square&logoColor=white) ![SpacetimeDB](https://img.shields.io/badge/spacetimedb-6B46C1?style=flat-square&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-b8dbe4?style=flat-square&logoColor=black) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 <div align="center">
+
+this is what building feels like
 
 [![](https://img.youtube.com/vi/bEt3qSNbElM/mqdefault.jpg)](https://youtu.be/bEt3qSNbElM)&nbsp;&nbsp;[![](https://img.youtube.com/vi/jmHNnCDvKf4/mqdefault.jpg)](https://youtu.be/jmHNnCDvKf4)&nbsp;&nbsp;[![](https://img.youtube.com/vi/ulj5UJ5GHvE/mqdefault.jpg)](https://youtu.be/ulj5UJ5GHvE)
 
